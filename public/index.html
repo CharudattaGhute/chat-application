@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <section class="chat_section">
+        <div class="brand">
+
+            <h1>Chat Application</h1>
+        </div>
+        <div class="message_area" id="chat-output">
+
+        </div>
+        <div class="form-control">
+            <textarea class="input-group" id="message-input" cols="30" rows="1"
+                placeholder="Write a Message"></textarea>
+            <button id="send-button" class="btn">Send</button>
+
+        </div>
+    </section>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+<script src="script.js"></script>
+
+</html>
