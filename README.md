@@ -53,11 +53,18 @@ npm start
 ## Usage
 Once the server is running, open the application in your web browser. You can start sending messages in the chat section. The AI component will respond to certain keywords with predefined messages.
 
+## Demo Video
+
+
+
+https://github.com/CharudattaGhute/chat-application/assets/122104600/0cf1f322-55be-406b-9eac-88e92d2016ba
+
+
 # Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-## Fork the repository.
+- Fork the repository.
 - Create a new branch (git checkout -b feature/my-feature).
 - Make your changes.
 - Commit your changes (git commit -am 'Add new feature').
