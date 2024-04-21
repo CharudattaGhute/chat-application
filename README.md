@@ -5,7 +5,7 @@ This is a simple chat application built with Node.js, Express, and Socket.IO. It
 
 ## Frontend
 -  HTML
-- CSS: 
+- CSS 
 - JavaScript
 ## Backend
 - Node.js
