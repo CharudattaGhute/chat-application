@@ -1,5 +1,5 @@
 # Chat-Application
-This is a simple chat application built with Node.js, Express, and Socket.IO. It allows users to send messages in real-time and incorporates a basic AI to respond to certain Keywords
+This is a simple chat application built with Node.js, Express, and Socket.IO. It allows users to send messages in real-time and incorporates a basic AI to respond to certain Keywords 
 
 ## Technologies Used
 
