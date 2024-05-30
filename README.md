@@ -4,8 +4,8 @@ This is a simple chat application built with Node.js, Express, and Socket.IO. It
 ## Technologies Used
 
 ## Frontend
--  HTML
-- CSS 
+- HTML.
+- CSS
 - JavaScript
 ## Backend
 - Node.js
